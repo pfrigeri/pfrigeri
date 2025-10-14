@@ -1,6 +1,6 @@
 # Olá, eu sou o Pedro Moura Frigeri! 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Web+em+forma%C3%A7%C3%A3o;Estudante+do+The+Odin+Project;I+use+Linux+btw;" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&center=true&vCenter=false&width=435&lines=Desenvolvedor+Web+em+forma%C3%A7%C3%A3o;Estudante+do+The+Odin+Project;I+use+Linux+btw;" alt="Typing SVG" /></a>
 
 <br>
 
@@ -38,7 +38,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e um entusiasta de tecno
 
 <div align="center">
   <a href="https://github.com/pfrigeri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pfrigeri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=pfrigeri&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
