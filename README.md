@@ -1,10 +1,12 @@
 # Olá, eu sou o Pedro Frigeri! 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&vCenter=true&width=435&lines=Desenvolvedor+Web+em+forma%C3%A7%C3%A3o;Estudante+do+The+Odin+Project;Entusiasta+do+universo+Linux+%F0%9F%90%A7" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&vCenter=true&width=435&lines=Desenvolvedor+Web+em+forma%C3%A7%C3%A3o;Ex-Atleta+de+Jud%C3%B4+%F0%9F%A5%8B;Entusiasta+do+universo+Linux+%F0%9F%90%A7" alt="Typing SVG" /></a>
 
 <br>
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e um entusiasta de tecnologia! Atualmente, estou focado em me tornar um Desenvolvedor Web Full-Stack através do **The Odin Project**. Já desenvolvi projetos em Java, tenho grande interesse pela área de dados e, nas horas vagas, sou um apaixonado pelo ecossistema Linux, sempre me aventurando no terminal.
+Sou estudante de Análise e Desenvolvimento de Sistemas, ex-atleta federal de judô e um apaixonado por tecnologia. A disciplina e a resiliência que aprendi nos tatames são as mesmas que aplico hoje para resolver problemas complexos com código.
+
+Atualmente, estou focado em me tornar um Desenvolvedor Web Full-Stack através do **The Odin Project** e, nas horas vagas, sou um entusiasta do ecossistema Linux, sempre me aventurando no terminal.
 
 <br>
 
@@ -12,6 +14,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e um entusiasta de tecno
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas**.
 - 🌱 Foco total em **JavaScript, HTML, CSS** com o **[The Odin Project](https://www.theodinproject.com/)**.
+- 🥋 O judô me ensinou que a persistência leva à perfeição, lição que aplico todos os dias ao programar.
+- 📚 Fora do código, me aprofundo na literatura e na filosofia, buscando perspectivas que enriquecem minha forma de viver.
 - 🐧 Usuário de Linux no dia a dia, com grande interesse em Bash Scripting.
 - 📫 Como me encontrar: **pedro.frigeri@gmail.com** ou pelo [LinkedIn](https://www.linkedin.com/in/seu-usuario-aqui/). <br>
 
@@ -61,3 +65,5 @@ Além do meu foco principal, já tive a oportunidade de explorar outras tecnolog
 </div>
 
 <br>
+
+## ✨ Meus Principais Projetos
