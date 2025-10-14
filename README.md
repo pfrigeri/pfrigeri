@@ -47,6 +47,7 @@ Além do meu foco principal, já tive a oportunidade de explorar outras tecnolog
   <a href="#"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
   <a href="#"><img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"></a>
   <a href="#"><img alt="VBA" src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></a>
+  <a href="#"><img alt="Cobol" src="https://img.shields.io/badge/COBOL-00529B?style=for-the-badge&logoColor=white"></a>
 </p>
 
 <p align="left">
