@@ -1,6 +1,6 @@
 # Olá, eu sou o Pedro Moura Frigeri! 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Web+em+forma%C3%A7%C3%A3o;Estudante+do+The+Odin+Project;Apaixonado+por+tecnologia+e+dados" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Web+em+forma%C3%A7%C3%A3o;Estudante+do+The+Odin+Project;I+use+Linux+btw" alt="Typing SVG" /></a>
 
 <br>
 
