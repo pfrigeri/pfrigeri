@@ -1,6 +1,6 @@
 # Olá, eu sou o Pedro Moura Frigeri! 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Web+em+forma%C3%A7%C3%A3o;Estudante+do+The+Odin+Project;I+use+Linux+btw" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Web+em+forma%C3%A7%C3%A3o;Estudante+do+The+Odin+Project;I+use+Linux+btw;" alt="Typing SVG" /></a>
 
 <br>
 
@@ -10,7 +10,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e um entusiasta de tecno
 
 ## 🚀 Sobre Mim
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**.
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na **FATEC**.
 - 🌱 Atualmente aprendendo **JavaScript, HTML, CSS** e todo o ecossistema Web com o **[The Odin Project](https://www.theodinproject.com/)**.
 - 💡 Tenho interesse em desenvolvimento Web, boas práticas de código e, futuramente, em Data Science.
 - 📫 Como me encontrar: **pedro.frigeri@gmail.com** ou pelo [LinkedIn](https://www.linkedin.com/in/seu-usuario-aqui/). <br>
