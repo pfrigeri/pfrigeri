@@ -4,7 +4,7 @@
 
 <br>
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, ex-atleta federal de judô e um apaixonado por tecnologia. A disciplina e a resiliência que aprendi nos tatames são as mesmas que aplico hoje para resolver problemas complexos com código.
+Sou estudante de Análise e Desenvolvimento de Sistemas, ex-atleta federado de judô e um apaixonado por tecnologia. A disciplina e a resiliência que aprendi nos tatames são as mesmas que aplico hoje para resolver problemas complexos com código.
 
 Atualmente, estou focado em me tornar um Desenvolvedor Web Full-Stack através do **The Odin Project** e, nas horas vagas, sou um entusiasta do ecossistema Linux, sempre me aventurando no terminal.
 
