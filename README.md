@@ -17,7 +17,7 @@ Atualmente, estou focado em me tornar um Desenvolvedor Web Full-Stack através d
 - 🥋 O judô me ensinou que a persistência leva à perfeição, lição que aplico todos os dias ao programar.
 - 📚 Fora do código, me aprofundo na literatura e na filosofia, buscando perspectivas que enriquecem minha forma de viver.
 - 🐧 Usuário de Linux no dia a dia, com grande interesse em Bash Scripting.
-- 📫 Como me encontrar: **pedro.frigeri@gmail.com** ou pelo [LinkedIn](https://www.linkedin.com/in/seu-usuario-aqui/). <br>
+- 📫 Como me encontrar: **pedro.frigeri@gmail.com** ou pelo [LinkedIn](https://www.linkedin.com/in/pedro-moura-frigeri/). <br>
 
 ## 🛠️ Tecnologias e Ferramentas (Foco Principal)
 
